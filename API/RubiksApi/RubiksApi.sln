@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubiksApi", "RubiksApi\RubiksApi.csproj", "{52E71A28-A44F-4DC5-8278-9A0260E0BF99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E71A28-A44F-4DC5-8278-9A0260E0BF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E71A28-A44F-4DC5-8278-9A0260E0BF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E71A28-A44F-4DC5-8278-9A0260E0BF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E71A28-A44F-4DC5-8278-9A0260E0BF99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C2DA52C-86E0-4820-9554-DAE09AFD59C7}
+	EndGlobalSection
+EndGlobal
